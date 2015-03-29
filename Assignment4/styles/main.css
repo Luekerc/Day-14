@@ -1,0 +1,51 @@
+body {
+	background-color: orange;
+	
+}
+
+#master {
+	text-align: center;
+}
+
+.search-textbox {
+	background-color: green;
+	margin: 0 0 1em 0;
+	font-size: 1.75em
+}
+
+#results {
+	border: 1px solid black;
+	width: 100%;
+	min-height: 2em;
+	background-color: white;
+	text-align: left;
+}
+#tabletitle {
+	text-align: left;
+	font-style: bold;
+	display: inline-block;
+
+}
+.tabletitle {
+	float: left;
+	margin-right: 7em;
+
+}
+
+
+.intro{
+	background-color: yellow;
+	margin: 0 0 1em 0;
+	font-size: 1.5em;
+}
+.towatch{
+	border: 1px solid black;
+	width: 100%;
+	min-height: 2em;
+	background-color: white;
+}
+.watchlist{
+	background-color: yellow;
+	margin: 0 0 1em 0;
+	font-size: 1.5em;
+}
